@@ -1,4 +1,5 @@
 import React from 'react';
+import './study/normal'
 
 function App() {
   let title: string = 'ts learn';
